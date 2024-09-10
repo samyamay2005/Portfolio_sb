@@ -42,11 +42,13 @@ main{
     top: 50%;
     right: 00%;
     transform: translateX(-50%);
+    box-shadow: 10px 10px 8px #000000;
 
 }
 #college{
     width: 100%;
     height: auto;
+    box-shadow: 5px 5px 4px #000000
 
 }
 
